@@ -5,7 +5,7 @@
 
 let header = $(`
 <nav class="navbar navbar-expand-lg fixed-top dark-theme" id="navbar">
-<a class="navbar-brand" href="index.html">John Doe </a>
+<a class="navbar-brand" href="index.html">Olega Obini </a>
 <div class="hamburger_wrapper navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 
   <div id="js-hamburger" class="hamburger">
@@ -21,7 +21,7 @@ let header = $(`
    <li class="nav-item nav-item-hover"><a class="nav-link" href="index.html">Home</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="experience.html">Experience</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="projects.html">Projects</a></li>
-   <li class="nav-item nav-item-hover"><a class="nav-link" href="research.html">Research</a></li>
+   <li class="nav-item nav-item-hover"><a class="nav-link" href="research.html">Research</a></li> 
    <li class="nav-item nav-item-hover"><a class="nav-link" href="education.html">Education</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="https://hashnode.com/" target="_blank">Blogs</a></li>
    <li class="nav-item">
@@ -134,7 +134,7 @@ let footer = $(`
                 <h6 class="display">Get in Touch</h6>
               </div>
                 <form>
-                  <form name="form1" action="https://formcarry.com/s/S2thQbCqEvW"  method="POST" accept-charset="UTF-8" >
+                  <form name="form1" action="https://formcarry.com/s/7xs4NkAQhKP"  method="POST" accept-charset="UTF-8" >
                   <input id="name" type="text" name="field1" placeholder="Your Name" required/>
                   <input id="email" type="email" name="field2" placeholder="Email Address"    required/>
                   
