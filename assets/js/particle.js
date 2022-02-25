@@ -3,13 +3,14 @@
 particlesJS("particles-js", {
   particles: {
     number: {
-      value: 140,
+      value: 40,
       density: {
         enable: true,
         value_area: 800,
       },
     },
     color: {
+      // value: ["#000000"],
       value: ["#2EB67D", "#ECB22E", "#E01E5B", "#36C5F0"],
     },
     shape: {
